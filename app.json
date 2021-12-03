@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/Team-MasterXBots/TheFlash",
+    "repository": "https://github.com/Team-MasterXBots/TheFlash",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -86,10 +86,10 @@
         },
         "IMDB": {
             "description": "Imdb, the view of information when making True/False ",
-            "required": false
+            "required": true
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/Team-MasterXBots/TheFlash/issues/22",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
